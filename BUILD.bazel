@@ -1,6 +1,3 @@
-package(default_visibility = ["//visibility:public"])
-
-filegroup(
-    name = "linux-x86",
-    srcs = glob(["linux-x86/**"]),
-)
+version https://git-lfs.github.com/spec/v1
+oid sha256:a668cfade47f016576671b9ce9cb3e380133a936759e27f5caa240b0361d4404
+size 127

@@ -1,0 +1,6 @@
+BUILD.bazel filter=lfs diff=lfs merge=lfs -text
+build-prebuilts.sh filter=lfs diff=lfs merge=lfs -text
+linux-x86 filter=lfs diff=lfs merge=lfs -text
+manifest.xml filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+update-prebuilts.sh filter=lfs diff=lfs merge=lfs -text
